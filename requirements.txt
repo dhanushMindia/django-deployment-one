@@ -1,4 +1,4 @@
-Cython==3.0.10
+Cython
 attrs==22.1.0
 bpython==0.25
 brotlicffi==1.1.0.0
